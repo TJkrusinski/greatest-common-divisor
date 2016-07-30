@@ -1,0 +1,25 @@
+{
+  "name": "greatest-common-divisor",
+  "version": "1.0.0",
+  "description": "Find the greatest common divisor of 2 numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJkrusinski/greatest-common-divisor.git"
+  },
+  "keywords": [
+    "gcd",
+    "greatest",
+    "common",
+    "divisor"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/greatest-common-divisor/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/greatest-common-divisor#readme"
+}
